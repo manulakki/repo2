@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F40A-6692
-
- Directory of C:\Users\LENOVO\Desktop\myproject
-
-03/10/2017  10:04 AM    <DIR>          .
-03/10/2017  10:04 AM    <DIR>          ..
-03/10/2017  10:04 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  52,877,553,664 bytes free
+hi this is manohar...
